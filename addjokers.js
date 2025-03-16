@@ -32,15 +32,6 @@ let jokers = [
   {
     name: "Secret Service",
     text: [
-      "Debuff all cards except {C:attention}King{} and {C:attention}Queen{} in play,",
-      "Retrigger Kings and Queens {C:attention}3 times{} for scoring."
-    ],
-    image_url: "img/placeholder.png",
-    rarity: "Rare"
-  },
-  {
-    name: "Negative President",
-    text: [
       "Debuff all cards except {C:attention}King{} and {C:attention}Queen{} in play, and retrigger Kings and Queens {C:attention}3 times{} for scoring.",
       "Duplicates itself {C:attention}once per King or Queen{} destroyed by {C:attention}The Hanged Man{} (max 2),",
       "and once per shattered {C:attention}Glass King/Queen{} (max 5), but only if space is available.",
